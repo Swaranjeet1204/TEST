@@ -1,0 +1,109 @@
+*{
+    font-family:  "Poppins", sans-serif;;
+}
+
+
+.nav-link{
+    color: black;
+   
+}
+.nav-link:hover{
+   color: white;
+}
+.start{
+    background-color: rgb(144, 188, 121) !important ;
+    height: 70px;
+}
+
+.nev1{
+    position: sticky;
+}
+
+.navbar-brand{
+    font-weight: 750;
+    color: white;
+    font-size: 30px;
+    padding-left: 30px;
+}
+
+.navbar-brand:hover{
+    color: white;
+}
+.collapse{
+    padding-left:450px;
+}
+.btnshow{
+    border: none;
+    color:white;
+    background-color: black;
+    padding: 12px;
+    margin-right: 50px;
+}
+.right{
+  
+    height: 700px;
+    
+}
+
+.heroimg{
+    height: 700px;
+    width: 100%;
+   padding-top: 8rem;
+}
+
+.he-row{
+    height: 850px;
+    position: relative;
+}
+
+.left{
+   padding-top: 17rem;
+}
+
+.herobanner{
+    background-image: url(./Hairnic_images/bg.png);
+    background-color:  rgb(144, 188, 121) !important ;
+}
+
+.btn2
+{
+     position:absolute ;
+     padding-top: 35rem;
+     padding-left: 3rem;
+}
+
+.batan1{
+    border: 2px solid #000;
+    background-color: black;
+}
+.batan2{
+    border: 2px solid black;
+}
+
+.cart{
+    /* position: relative; */
+    border: 1px solid rgb(144, 188, 121) ;
+    height: 220px;
+    width: 400px;
+    background-color: rgb(144, 188, 121) ;
+}
+
+.nature{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 3px solid rgb(169, 197, 153) ;
+    height: 200px;
+    width: 380px;
+    /* position: absolute; */
+    color: #fff;
+    font-weight: 600;
+
+}
+
+
+
+.fire{
+    color: #000;
+    
+}
